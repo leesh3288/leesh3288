@@ -1,16 +1,30 @@
-### Hi there 👋
+### SeungHyun Lee (a.k.a. "Xion")
 
-<!--
-**leesh3288/leesh3288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests
+- System Security
+- Binary Analysis
+- Computer Architecture
+- Vulnerability Research & Exploitation
 
-Here are some ideas to get you started:
+#### Affiliation
+- Undergrad @ KAIST (2018.02. ~), CS&EE double major
+- Leader of KAIST GoN
+- KAIST CERT Senior Member
+- Project Manager of KAIST Startup Simulation Game @ K-School
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Awards and Honors
+<details> <summary>🏅</summary>
+  
+- 2018 National Cryptography Contest II-A Division Participation Award
+- CODEGATE CTF 2019 University Division 3rd Place
+- Cyber Operations Challenge 2019 2nd Place
+- DEFCON 27 CTF Finalist
+- Dean's List (2018 Spring, 2018 Fall, 2019 Fall)
+- KAIST Presidential Fellowship Scholar
+- National Scholarship for Science and Engineering (2018 Spring ~ 2019 Fall)
+- Presidential Science Scholarship (2020 Spring ~)
+
+</details>
+
+#### Contact
+- xion (at) kaist (dot) ac (dot) kr
