@@ -19,7 +19,7 @@
 - CODEGATE CTF 2019 University Division 3rd Place
 - Cyber Operations Challenge 2019 2nd Place
 - DEFCON 27 CTF Finalist
-- Dean's List (2018 Spring, 2018 Fall, 2019 Fall)
+- Dean's List (2018 Spring, 2018 Fall, 2019 Fall, 2020 Spring)
 - KAIST Presidential Fellowship Scholar
 - National Scholarship for Science and Engineering (2018 Spring ~ 2019 Fall)
 - Presidential Science Scholarship (2020 Spring ~)
