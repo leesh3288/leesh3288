@@ -25,7 +25,7 @@
   - **Cyber Operations Challenge 2020** 1st Place as *KAIST GoN*
 - Academic Awards / Scholarship
   - KAIST Undergraduate Dean's List
-    - 2018 Spring, 2018 Fall, 2019 Fall, 2020 Spring
+    - 2018 Spring, 2018 Fall, 2019 Fall, 2020 Spring, 2020 Fall
   - KAIST Presidential Fellowship Scholar
   - National Scholarship for Science and Engineering (2018 Spring ~ 2019 Fall)
   - Presidential Science Scholarship (2020 Spring ~)
