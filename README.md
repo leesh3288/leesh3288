@@ -19,6 +19,7 @@
 
 - Security Competition / CTFs
   - 2021
+    - **Whitehat Contest Korea 2021** 1st Place (Military Division) as *ㅡㅡㅡ본선진출커트라인ㅡㅡㅡ*
     - **LINE CTF 2021** 2nd Place as *KimchiSushi*
     - **zer0pts CTF 2021** 2nd Place as *K-Students*
   - 2020
