@@ -11,6 +11,7 @@
 - Undergrad @ **KAIST** (2018.02. ~), CS&EE double major
 - Member of **KAIST GoN** (2018.03. ~)
   - Former leader of **KAIST GoN** (2020.03. ~ 2021.02.)
+- Member of **zer0pts** (2022.03. ~)
 - **KAIST CERT** Student Senior Member (2018.08. ~ 2021.02.)
 - Project Manager of KAIST Startup Simulation Game dev team @ K-School (2018.09. ~ 2021.03.)
 
@@ -18,6 +19,11 @@
 <details> <summary>🏅</summary>
 
 - Security Competition / CTFs
+  - 2022
+    - Organized **2022 Spring GoN Open Qual CTF**
+    - Organized **2022 Fall GoN Open Qual CTF**
+    - **WACON 2022** 1st Place as *The Goose*
+    - **zer0pts CTF 2022** 2nd Place as *Super HexaGoN*
   - 2021
     - **Whitehat Contest Korea 2021** 1st Place (Military Division) as *ㅡㅡㅡ본선진출커트라인ㅡㅡㅡ*
     - **LINE CTF 2021** 2nd Place as *KimchiSushi*
