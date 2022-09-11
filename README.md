@@ -29,7 +29,7 @@
     - **LINE CTF 2021** 2nd Place as *KimchiSushi*
     - **zer0pts CTF 2021** 2nd Place as *K-Students*
   - 2020
-    - Organized **CODEGATE CTF 2020**
+    - Challenge author of **CODEGATE CTF 2020**
     - **Cyber Operations Challenge (사이버작전경연대회) 2020** 1st Place as *KAIST GoN*
     - **SECCON 2020 OnlineCTF** 1st Place as *HangulSarang*
     - **TokyoWesterns CTF 6th 2020** 1st Place as *D0G$*
