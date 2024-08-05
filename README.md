@@ -7,44 +7,80 @@
 - Vulnerability Research & Exploitation
 
 #### Affiliation
-- Mandatory military service @ ROKA as Infosec Specialist (2021.03. ~ 2022.09.)
-- Undergrad @ **KAIST** (2018.02. ~), CS&EE double major
+- Ph.D. Student @ **Carnegie Mellon University**, Computer Science
+- B.S. @ **KAIST** (2018.02. ~ 2024.02.), CS&EE double major
 - Member of **KAIST GoN** (2018.03. ~)
   - Former leader of **KAIST GoN** (2020.03. ~ 2021.02.)
 - Member of **zer0pts** (2022.03. ~)
 - **KAIST CERT** Student Senior Member (2018.08. ~ 2021.02.)
-- Project Manager of KAIST Startup Simulation Game dev team @ K-School (2018.09. ~ 2021.03.)
+
+#### Vulnerability Disclosures & Rewards
+<details> <summary>🧑‍💻</summary>
+
+- CVE-2024-6779: Out of bounds memory access in V8 in Google Chrome
+- [b/346197738](https://crbug.com/346197738) (1-day): Google v8CTF exploit
+- CVE-2024-6100: Type confusion in V8 in Google Chrome (TyphoonPWN 2024)
+- CVE-2024-40789: Out of bounds memory access in WebKit
+- CVE-2024-3914: Use after free in V8 in Google Chrome (Pwn2Own Vancouver 2024)
+- CVE-2024-2886: Use after free in WebCodecs in Google Chrome (Pwn2Own Vancouver 2024)
+- CVE-2023-3390 (1-day): Google kernelCTF exploit in all LTS/COS/Mitigation instances, with Dongok Kim
+- CVE-2024-27934: Use after free in Deno to ACE
+- CVE-2024-27933: Permission prompt bypass in Deno to ACE
+- CVE-2023-29199, 30547, 37466, 37903: Sandbox escape in vm2
+  - CVE-2023-35926, GHSA-22rr-f3p8-5gf8: Directus, Backstage affected by vm2 sandbox escape
+- CVE-2022-35951: Heap overflow in Redis `XAUTOCLAIM` to RCE
+- CVE-2022-35977: OOM DoS in Redis via single parameter-controlled `SETRANGE` / `SORT(_RO)`
+
+</details>
 
 #### Awards and Honors
 <details> <summary>🏅</summary>
 
 - Security Competition / CTFs
+  - 2023
+    - Challenge author of `zer0pts CTF 2023`
+    - **1st Place**, `CODEGATE CTF 2023` University Div. as *KAIST GoN*
+    - **1st Place**, `Cyber Conflict Exercise 2023` (Overall Championship) as *The Goose*
+    - **1st Place**, `DEFCON 31 CTF` as *MMM*
   - 2022
-    - Organized **2022 Spring GoN Open Qual CTF**
-    - Organized **2022 Fall GoN Open Qual CTF**
-    - **WACON 2022** 1st Place as *The Goose*
-    - **zer0pts CTF 2022** 2nd Place as *Super HexaGoN*
+    - Organized `2022 Spring / Fall GoN Open Qual CTF`
+    - **2nd Place**, `Cyber Conflict Exercise 2022` General Div. as *The Goose*
+    - **1st Place**, `WACON 2022` as *The Goose*
+    - **2nd Place**, `zer0pts CTF 2022` as *Super HexaGoN*
   - 2021
-    - **Whitehat Contest Korea 2021** 1st Place (Military Division) as *ㅡㅡㅡ본선진출커트라인ㅡㅡㅡ*
-    - **LINE CTF 2021** 2nd Place as *KimchiSushi*
-    - **zer0pts CTF 2021** 2nd Place as *K-Students*
+    - **1st Place**, `Whitehat Contest Korea 2021` Military Div. as *ㅡㅡㅡ본선진출커트라인ㅡㅡㅡ*
+    - **2nd Place**, `LINE CTF 2021` as *KimchiSushi*
+    - **2nd Place**, `zer0pts CTF 2021` as *K-Students*
   - 2020
-    - Challenge author of **CODEGATE CTF 2020**
-    - **Cyber Operations Challenge (사이버작전경연대회) 2020** 1st Place as *KAIST GoN*
-    - **SECCON 2020 OnlineCTF** 1st Place as *HangulSarang*
-    - **TokyoWesterns CTF 6th 2020** 1st Place as *D0G$*
-    - **2020 Christmas CTF** 1st Place
+    - Challenge author of `CODEGATE CTF 2020`
+    - **1st Place**, `Cyber Operations Challenge 2020` General Div. as *KAIST GoN*
+    - **1st Place**, `SECCON 2020 OnlineCTF` as *HangulSarang*
+    - **1st Place**, `TokyoWesterns CTF 6th 2020` as *D0G$*
   - 2019
-    - **DEFCON 27 CTF** Finalist as *KaisHack GoN*
-    - **Cyber Operations Challenge 2019** 2nd Place as *GoN*
-    - **CODEGATE CTF 2019** University Division 3rd Place as *KAIST GoN*
+    - **Finalist**, `DEFCON 27 CTF` as *KaisHack GoN*
+    - **2nd Place**, `Cyber Operations Challenge 2019` as *GoN*
+    - **3rd Place**, `CODEGATE CTF 2019` University Div.  as *KAIST GoN*
   - 2018
-    - **2018 National Cryptography Contest** II-A Division Participation Award
+    - **Participation Award**, `2018 National Cryptography Contest` II-A Div.
 - Academic Awards / Scholarship
-  - KAIST Undergraduate Dean's List
-    - 2018 Spring, 2018 Fall, 2019 Fall, 2020 Spring, 2020 Fall
-  - KAIST Presidential Fellowship Scholar
-  - National Scholarship for Science and Engineering (2018 Spring ~ 2019 Fall)
-  - Presidential Science Scholarship (2020 Spring ~)
+  - **Doctoral Research Fellowship**, KFAS (Fall 2024 -)
+  - **KAIST Presidential Fellowship**, KAIST (Spring 2020 - Fall 2023)
+  - **Presidential Science Scholarship**, KOSAF (Spring 2020 - Fall 2023)
+  - **Department Honors Scholarship**, School of Computing, KAIST (Spring 2020)
+  - **Honor Student Program**, KAIST (Spring 2020)
+  - **National Scholarship for Science and Engineering**, KOSAF (Spring 2018 - Fall 2019)
+  - Dean's List
+    - **Spring 2023, Fall 2020, Spring 2020, Fall 2019**, College of Engineering, KAIST
+    - **Fall 2018, Spring 2018**, School of Freshman, KAIST
+
+</details>
+
+#### Invited Talks
+
+<details> <summary>🗣️</summary>
+
+- [One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/publication/kim-kernel-ctf/) (POC2023)
+  - Dongok Kim, Seunghyun Lee, Insu Yun
+- [How (Not) to Sandbox Node.js: A vm2 Postmortem](https://www.youtube.com/watch?v=jJTMcfe24AI) (OpenTRS 2023)
 
 </details>
