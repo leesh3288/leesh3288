@@ -1,4 +1,4 @@
-### SeungHyun Lee (a.k.a. "Xion")
+### Seunghyun Lee (a.k.a. "Xion")
 
 #### Interests
 - System Security
