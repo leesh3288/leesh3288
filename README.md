@@ -7,8 +7,9 @@
 - Vulnerability Research & Exploitation
 
 #### Affiliation
-- Ph.D. Student @ **Carnegie Mellon University**, Computer Science
+- Ph.D. Student @ **Carnegie Mellon University**, Computer Science Department
 - B.S. @ **KAIST** (2018.02. ~ 2024.02.), CS&EE double major
+- Member of **Plaid Parliament of Pwning** (2024.08. ~)
 - Member of **KAIST GoN** (2018.03. ~)
   - Former leader of **KAIST GoN** (2020.03. ~ 2021.02.)
 - Member of **zer0pts** (2022.03. ~)
@@ -17,19 +18,21 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
-- CVE-2024-6779: Out of bounds memory access in V8 in Google Chrome
-- [b/346197738](https://crbug.com/346197738) (1-day): Google v8CTF exploit
-- CVE-2024-6100: Type confusion in V8 in Google Chrome (TyphoonPWN 2024)
-- CVE-2024-40789: Out of bounds memory access in WebKit
-- CVE-2024-3914: Use after free in V8 in Google Chrome (Pwn2Own Vancouver 2024)
-- CVE-2024-2886: Use after free in WebCodecs in Google Chrome (Pwn2Own Vancouver 2024)
-- CVE-2023-3390 (1-day): Google kernelCTF exploit in all LTS/COS/Mitigation instances, with Dongok Kim
+- CVE-2024-8194: Type confusion in V8 in **Google Chrome**
+- CVE-2024-8385: Type confusion in **Mozilla Firefox**
+- CVE-2024-6779: Out of bounds memory access in V8 in **Google Chrome**
+- [b/346197738](https://crbug.com/346197738) (1-day): **Google Chrome v8CTF** exploit
+- CVE-2024-6100: Type confusion in V8 in **Google Chrome (TyphoonPWN 2024)**
+- CVE-2024-40789: Out of bounds memory access in **WebKit**
+- CVE-2024-3914: Use after free in V8 in **Google Chrome (Pwn2Own Vancouver 2024)**
+- CVE-2024-2886: Use after free in WebCodecs in **Google Chrome (Pwn2Own Vancouver 2024)**
+- CVE-2023-3390 (1-day): **Google kernelCTF** exploit in all LTS/COS/Mitigation instances, with Dongok Kim
 - CVE-2024-27934: Use after free in Deno to ACE
 - CVE-2024-27933: Permission prompt bypass in Deno to ACE
 - CVE-2023-29199, 30547, 37466, 37903: Sandbox escape in vm2
   - CVE-2023-35926, GHSA-22rr-f3p8-5gf8: Directus, Backstage affected by vm2 sandbox escape
 - CVE-2022-35951: Heap overflow in Redis `XAUTOCLAIM` to RCE
-- CVE-2022-35977: OOM DoS in Redis via single parameter-controlled `SETRANGE` / `SORT(_RO)`
+- CVE-2022-35977: OOM DoS in Redis via single-parameter-controlled `SETRANGE` / `SORT(_RO)`
 
 </details>
 
@@ -37,6 +40,11 @@
 <details> <summary>🏅</summary>
 
 - Security Competition / CTFs
+  - 2024
+    - **1st Place**, `DEFCON 32 CTF` as *MMM*
+      - Awarded Black Badge
+    - Winner of `TyphoonPWN 2024`
+    - Winner of `Pwn2Own Vancouver 2024`
   - 2023
     - Challenge author of `zer0pts CTF 2023`
     - **1st Place**, `CODEGATE CTF 2023` University Div. as *KAIST GoN*
@@ -79,8 +87,9 @@
 
 <details> <summary>🗣️</summary>
 
+- WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM (POC2024)
 - [One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/publication/kim-kernel-ctf/) (POC2023)
-  - Dongok Kim, Seunghyun Lee, Insu Yun
+  - Dongok Kim, **Seunghyun Lee**, Insu Yun
 - [How (Not) to Sandbox Node.js: A vm2 Postmortem](https://www.youtube.com/watch?v=jJTMcfe24AI) (OpenTRS 2023)
 
 </details>
