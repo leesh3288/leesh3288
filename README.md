@@ -18,7 +18,7 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
-- CVE-2024-8194: Type confusion in V8 in **Google Chrome**
+- CVE-2024-8194: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-8385: Type confusion in **Mozilla Firefox**
 - CVE-2024-6779: Out of bounds memory access in V8 in **Google Chrome**
 - [b/346197738](https://crbug.com/346197738) (1-day): **Google Chrome v8CTF** exploit
