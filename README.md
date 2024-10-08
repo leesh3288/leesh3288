@@ -18,6 +18,7 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
+- CVE-2024-9602: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-9122: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-8194: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-8385: Type confusion in **Mozilla Firefox**
