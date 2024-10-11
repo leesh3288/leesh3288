@@ -23,7 +23,7 @@
 - CVE-2024-8194: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-8385: Type confusion in **Mozilla Firefox**
 - CVE-2024-6779: Out of bounds memory access in V8 in **Google Chrome**
-- [b/346197738](https://crbug.com/346197738) (1-day): **Google Chrome v8CTF** exploit
+- CVE-2024-9859 (1-day): **Google Chrome v8CTF** exploit
 - CVE-2024-6100: Type confusion in V8 in **Google Chrome (TyphoonPWN 2024)**
 - CVE-2024-40789: Out of bounds memory access in **WebKit**
 - CVE-2024-3914: Use after free in V8 in **Google Chrome (Pwn2Own Vancouver 2024)**
