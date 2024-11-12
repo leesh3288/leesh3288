@@ -91,7 +91,7 @@
 
 <details> <summary>🗣️</summary>
 
-- (Upcoming) WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM (POC2024, CODE BLUE 2024)
+- [WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024/%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf) (POC2024, CODE BLUE 2024)
 - [One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/publication/kim-kernel-ctf/) (POC2023)
   - Dongok Kim, **Seunghyun Lee**, Insu Yun
 - [How (Not) to Sandbox Node.js: A vm2 Postmortem](https://www.youtube.com/watch?v=jJTMcfe24AI) (OpenTRS 2023)
