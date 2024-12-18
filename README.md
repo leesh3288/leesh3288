@@ -18,6 +18,7 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
+- CVE-2024-12692: Type confusion in V8 in **Google Chrome**
 - CVE-2024-54479: Type confusion in WebKit in **Apple Safari**
 - CVE-2024-12381: Type confusion in V8 in **Google Chrome**
 - CVE-2024-10231: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
