@@ -46,6 +46,8 @@
 #### Awards and Honors
 <details> <summary>🏅</summary>
 
+- Acknowledgements
+  - [2024 Top#0 Chrome VRP Researcher](https://crbug.com/386306231)
 - Security Competition / CTFs
   - 2024
     - **1st Place**, `DEFCON 32 CTF` as *MMM*
