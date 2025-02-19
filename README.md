@@ -18,21 +18,22 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
-- CVE-2024-12692: Type confusion in V8 in **Google Chrome**
-- CVE-2024-54479: Type confusion in WebKit in **Apple Safari**
-- CVE-2024-12381: Type confusion in V8 in **Google Chrome**
-- CVE-2024-10231: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
-- CVE-2024-10230: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
-- CVE-2024-9602: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
-- CVE-2024-9122: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
-- CVE-2024-8194: Type confusion in V8 in **Google Chrome**, exploited on **v8CTF**
+- CVE-2025-0999: Heap buffer overflow in V8 / **Google Chrome**
+- CVE-2024-12692: Type confusion in V8 / **Google Chrome**
+- CVE-2024-54479: Type confusion in WebKit / **Apple Safari**
+- CVE-2024-12381: Type confusion in V8 / **Google Chrome**
+- CVE-2024-10231: Type confusion in V8 / **Google Chrome**, exploited on **v8CTF**
+- CVE-2024-10230: Type confusion in V8 / **Google Chrome**, exploited on **v8CTF**
+- CVE-2024-9602: Type confusion in V8 / **Google Chrome**, exploited on **v8CTF**
+- CVE-2024-9122: Type confusion in V8 / **Google Chrome**, exploited on **v8CTF**
+- CVE-2024-8194: Type confusion in V8 / **Google Chrome**, exploited on **v8CTF**
 - CVE-2024-8385: Type confusion in **Mozilla Firefox**
-- CVE-2024-6779: Out of bounds memory access in V8 in **Google Chrome**
+- CVE-2024-6779: Out of bounds memory access in V8 / **Google Chrome**
 - CVE-2024-9859 (1-day): **Google Chrome v8CTF** exploit
-- CVE-2024-6100: Type confusion in V8 in **Google Chrome (TyphoonPWN 2024)**
-- CVE-2024-40789: Out of bounds memory access in WebKit in **Apple Safari**
-- CVE-2024-3914: Use after free in V8 in **Google Chrome (Pwn2Own Vancouver 2024)**
-- CVE-2024-2886: Use after free in WebCodecs in **Google Chrome (Pwn2Own Vancouver 2024)**
+- CVE-2024-6100: Type confusion in V8 / **Google Chrome (TyphoonPWN 2024)**
+- CVE-2024-40789: Out of bounds memory access in WebKit / **Apple Safari**
+- CVE-2024-3914: Use after free in V8 / **Google Chrome (Pwn2Own Vancouver 2024)**
+- CVE-2024-2886: Use after free in WebCodecs / **Google Chrome (Pwn2Own Vancouver 2024)**
 - CVE-2023-3390 (1-day): **Google kernelCTF** exploit in all LTS/COS/Mitigation instances, with Dongok Kim
 - CVE-2024-27934: Use after free in Deno to ACE
 - CVE-2024-27933: Permission prompt bypass in Deno to ACE
