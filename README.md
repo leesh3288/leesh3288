@@ -18,7 +18,8 @@
 #### Vulnerability Disclosures & Rewards
 <details> <summary>🧑‍💻</summary>
 
-- CVE-2025-8880: Race in V8 / **Google Chrome**
+- CVE-2025-9132 (1-day): **Google Chrome v8CTF** exploit (renderer + v8sbx)
+- CVE-2025-8880: Race in V8 / **Google Chrome**, exploited on **v8CTF** (renderer + v8sbx)
 - CVE-2025-5959: Type confusion in V8 / **Google Chrome (TyphoonPWN 2025)**
 - CVE-2025-0999: Heap buffer overflow in V8 / **Google Chrome**
 - CVE-2024-12692: Type confusion in V8 / **Google Chrome**
